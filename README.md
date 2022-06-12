@@ -1,72 +1,259 @@
-# svg status badges
-
-域名可选 `http://jslite.io` 或者 `http://jaywcjlove.github.io` 后面跟上图片路径即可 `/sb/p/1.svg` ，所有`SVG`文件都放在 [gh-pages](https://github.com/jaywcjlove/sb/tree/gh-pages) 分支中。
-
-```markdown
-![图片名称](http://图片网址)
-```
-
-[View All](http://jaywcjlove.github.io/sb/)
-
-## Progressed
-
-`http://jaywcjlove.github.io/sb/p/1.svg` 图片名称`[0~100]`
-
-| 图标 | 图标 | 图标 | 图标 | 图标 | 图标 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/94.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/99.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/65.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/36.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/88.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/78.svg) |
-| ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/12.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/66.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/0.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/21.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/57.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/55.svg) |
-
-## License
-
-| apache.svg | bsd.svg | gpl.svg | lgpl.svg | mit.svg | mozilla.svg |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| ![](http://jaywcjlove.github.io/sb/license/apache.svg) | ![](http://jaywcjlove.github.io/sb/license/bsd.svg) | ![](http://jaywcjlove.github.io/sb/license/gpl.svg) | ![](http://jaywcjlove.github.io/sb/license/lgpl.svg) | ![](http://jaywcjlove.github.io/sb/license/mit.svg) | ![](http://jaywcjlove.github.io/sb/license/mozilla.svg) |
-
-## Plugin
-
-| jquery.svg | jslite.svg | zepto.svg | angularjs.svg | vue.svg |
-| ---- | ---- | ---- | ---- |---- |
-| ![](http://jaywcjlove.github.io/sb/plugin/jquery.svg) | ![](http://jaywcjlove.github.io/sb/plugin/jslite.svg) | ![](http://jaywcjlove.github.io/sb/plugin/zepto.svg) | ![](http://jaywcjlove.github.io/sb/plugin/angularjs.svg) | ![](http://jaywcjlove.github.io/sb/plugin/vue.svg) |
-
-
-## 其它图标
-
-|      |      |      |      |      |      |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| baidu.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/baidu.svg) | facebook.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/facebook.svg) | gitter.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/gitter.svg) |
-| google+.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/google+.svg) | linkedin.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/linkedin.svg) | qq.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/qq.svg) |
-| qqweibo.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/qqweibo.svg) | qzone.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/qzone.svg) | twitter.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/twitter.svg) |
-| wechat.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/wechat.svg) | weibo.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/weibo.svg) | zhihu.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/zhihu.svg) |
-| alipay-1.svg | ![](http://jaywcjlove.github.io/sb/ico/alipay-1.svg) | alipay.svg | ![](http://jaywcjlove.github.io/sb/ico/alipay.svg) | group.svg | ![](http://jaywcjlove.github.io/sb/ico/group.svg) | 
-| segmentfault.svg | ![](http://jaywcjlove.github.io/sb/ico/segmentfault.svg) | stackoverflow.svg | ![](http://jaywcjlove.github.io/sb/ico/stackoverflow.svg) | awesome.svg | ![](http://jaywcjlove.github.io/sb/ico/awesome.svg) |
-| bower.svg | ![](http://jaywcjlove.github.io/sb/ico/bower.svg) | grunt.svg | ![](http://jaywcjlove.github.io/sb/ico/grunt.svg) | gulp.svg | ![](http://jaywcjlove.github.io/sb/ico/gulp.svg) |
-| express.svg | ![](http://jaywcjlove.github.io/sb/ico/express.svg) | hexo.svg | ![](http://jaywcjlove.github.io/sb/ico/hexo.svg) | npm.svg | ![](http://jaywcjlove.github.io/sb/ico/npm.svg) |
-| redis.svg | ![](http://jaywcjlove.github.io/sb/ico/redis.svg) | twitter-follow.svg | ![](http://jaywcjlove.github.io/sb/ico/twitter-follow.svg) | twitter-tweet.svg | ![](http://jaywcjlove.github.io/sb/ico/twitter-tweet.svg) |
-| xitu.svg | ![](http://jaywcjlove.github.io/sb/ico/xitu.svg) | gitee.svg | ![](http://jaywcjlove.github.io/sb/ico/gitee.svg) | redhat.svg | ![](http://jaywcjlove.github.io/sb/ico/redhat.svg) |
-
-## Github
-
-`http://jaywcjlove.github.io/sb/github/alt-follow.svg` 图片名字更换
-
-
-| alt-follow.svg | alt-fork.svg | alt-star.svg | alt.svg |
-| ---- | ---- | ---- | ---- |
-| ![](http://jaywcjlove.github.io/sb/github/alt-follow.svg) | ![](http://jaywcjlove.github.io/sb/github/alt-fork.svg) | ![](http://jaywcjlove.github.io/sb/github/alt-star.svg) | ![](http://jaywcjlove.github.io/sb/github/alt.svg) |
-| black-follow.svg | black-fork.svg | black-star.svg | black.svg |
-| ![](http://jaywcjlove.github.io/sb/github/black-follow.svg) | ![](http://jaywcjlove.github.io/sb/github/black-fork.svg) | ![](http://jaywcjlove.github.io/sb/github/black-star.svg) | ![](http://jaywcjlove.github.io/sb/github/black.svg) |
-| green-alt-follow.svg | green-alt-fork.svg | green-alt-star.svg | green-alt.svg |
-| ![](http://jaywcjlove.github.io/sb/github/green-alt-follow.svg) | ![](http://jaywcjlove.github.io/sb/github/green-alt-fork.svg) | ![](http://jaywcjlove.github.io/sb/github/green-alt-star.svg) | ![](http://jaywcjlove.github.io/sb/github/green-alt.svg) |
-| green-follow.svg | green-fork.svg | green-star.svg | green.svg |
-| ![](http://jaywcjlove.github.io/sb/github/green-follow.svg) | ![](http://jaywcjlove.github.io/sb/github/green-fork.svg) | ![](http://jaywcjlove.github.io/sb/github/green-star.svg) | ![](http://jaywcjlove.github.io/sb/github/green.svg) |
-| w-alt-follow.svg | w-alt-fork.svg | w-alt-star.svg | w-alt.svg |
-| ![](http://jaywcjlove.github.io/sb/github/w-alt-follow.svg) | ![](http://jaywcjlove.github.io/sb/github/w-alt-fork.svg) | ![](http://jaywcjlove.github.io/sb/github/w-alt-star.svg) | ![](http://jaywcjlove.github.io/sb/github/w-alt.svg) |
-| w-follow.svg | w-fork.svg | w-star.svg | w.svg |
-| ![](http://jaywcjlove.github.io/sb/github/w-follow.svg) | ![](http://jaywcjlove.github.io/sb/github/w-fork.svg) | ![](http://jaywcjlove.github.io/sb/github/w-star.svg) | ![](http://jaywcjlove.github.io/sb/github/w.svg) |
-
-
-## 生成图标网站
-
-```bash
-node build.js
-```
+  <h2 class="title">build</h2>
+  
+![badge](https://zgq-inc.github.io/badge/build/failing.svg)
+    
+![badge](https://zgq-inc.github.io/badge/build/inaccessible.svg)
+![badge](https://zgq-inc.github.io/badge/build/invalid.svg)
+![badge](https://zgq-inc.github.io/badge/build/passing.svg)
+  
+  <h2 class="title">download</h2>
+  
+![badge](https://zgq-inc.github.io/badge/download/amazon.svg)
+![badge](https://zgq-inc.github.io/badge/download/appstore.svg)
+![badge](https://zgq-inc.github.io/badge/download/chrome-web-store.svg)
+![badge](https://zgq-inc.github.io/badge/download/googleplay.svg)
+![badge](https://zgq-inc.github.io/badge/download/macos.svg)
+![badge](https://zgq-inc.github.io/badge/download/made-for-iphone.svg)
+![badge](https://zgq-inc.github.io/badge/download/made_for_iPod.svg)
+![badge](https://zgq-inc.github.io/badge/download/white-amazon.svg)
+![badge](https://zgq-inc.github.io/badge/download/white-appstore.svg)
+![badge](https://zgq-inc.github.io/badge/download/white-chrome-web-store.svg)
+![badge](https://zgq-inc.github.io/badge/download/white-googleplay.svg)
+![badge](https://zgq-inc.github.io/badge/download/white-macos.svg)
+![badge](https://zgq-inc.github.io/badge/download/white-made-for-iphone.svg)
+![badge](https://zgq-inc.github.io/badge/download/white-made_for_iPod.svg)
+![badge](https://zgq-inc.github.io/badge/download/white-window.svg)
+![badge](https://zgq-inc.github.io/badge/download/window.svg)
+  
+  <h2 class="title">github</h2>
+  
+![badge](https://zgq-inc.github.io/badge/github/alt-follow.svg)
+![badge](https://zgq-inc.github.io/badge/github/alt-fork.svg)
+![badge](https://zgq-inc.github.io/badge/github/alt-star.svg)
+![badge](https://zgq-inc.github.io/badge/github/alt.svg)
+![badge](https://zgq-inc.github.io/badge/github/black-follow.svg)
+![badge](https://zgq-inc.github.io/badge/github/black-fork.svg)
+![badge](https://zgq-inc.github.io/badge/github/black-star.svg)
+![badge](https://zgq-inc.github.io/badge/github/black.svg)
+![badge](https://zgq-inc.github.io/badge/github/green-alt-follow.svg)
+![badge](https://zgq-inc.github.io/badge/github/green-alt-fork.svg)
+![badge](https://zgq-inc.github.io/badge/github/green-alt-star.svg)
+![badge](https://zgq-inc.github.io/badge/github/green-alt.svg)
+![badge](https://zgq-inc.github.io/badge/github/green-follow.svg)
+![badge](https://zgq-inc.github.io/badge/github/green-fork.svg)
+![badge](https://zgq-inc.github.io/badge/github/green-star.svg)
+![badge](https://zgq-inc.github.io/badge/github/green.svg)
+![badge](https://zgq-inc.github.io/badge/github/w-alt-follow.svg)
+![badge](https://zgq-inc.github.io/badge/github/w-alt-fork.svg)
+![badge](https://zgq-inc.github.io/badge/github/w-alt-star.svg)
+![badge](https://zgq-inc.github.io/badge/github/w-alt.svg)
+![badge](https://zgq-inc.github.io/badge/github/w-follow.svg)
+![badge](https://zgq-inc.github.io/badge/github/w-fork.svg)
+![badge](https://zgq-inc.github.io/badge/github/w-star.svg)
+![badge](https://zgq-inc.github.io/badge/github/w.svg)
+  
+  <h2 class="title">ico</h2>
+  
+![badge](https://zgq-inc.github.io/badge/ico/58.svg)
+![badge](https://zgq-inc.github.io/badge/ico/alipay-1.svg)
+![badge](https://zgq-inc.github.io/badge/ico/alipay.svg)
+![badge](https://zgq-inc.github.io/badge/ico/awesome.svg)
+![badge](https://zgq-inc.github.io/badge/ico/baidu.svg)
+![badge](https://zgq-inc.github.io/badge/ico/bower.svg)
+![badge](https://zgq-inc.github.io/badge/ico/cctv.svg)
+![badge](https://zgq-inc.github.io/badge/ico/csdn.svg)
+![badge](https://zgq-inc.github.io/badge/ico/email.svg)
+![badge](https://zgq-inc.github.io/badge/ico/express.svg)
+![badge](https://zgq-inc.github.io/badge/ico/facebook.svg)
+![badge](https://zgq-inc.github.io/badge/ico/gitee.svg)
+![badge](https://zgq-inc.github.io/badge/ico/gitter.svg)
+![badge](https://zgq-inc.github.io/badge/ico/google+.svg)
+![badge](https://zgq-inc.github.io/badge/ico/group.svg)
+![badge](https://zgq-inc.github.io/badge/ico/grunt-build-with.svg)
+![badge](https://zgq-inc.github.io/badge/ico/grunt.svg)
+![badge](https://zgq-inc.github.io/badge/ico/gulp-build-with.svg)
+![badge](https://zgq-inc.github.io/badge/ico/gulp.svg)
+![badge](https://zgq-inc.github.io/badge/ico/hexo.svg)
+![badge](https://zgq-inc.github.io/badge/ico/linkedin.svg)
+![badge](https://zgq-inc.github.io/badge/ico/linux.svg)
+![badge](https://zgq-inc.github.io/badge/ico/min-app-store.svg)
+![badge](https://zgq-inc.github.io/badge/ico/min-awesome.svg)
+![badge](https://zgq-inc.github.io/badge/ico/min-bibei.svg)
+![badge](https://zgq-inc.github.io/badge/ico/min-free.svg)
+![badge](https://zgq-inc.github.io/badge/ico/min-hot.svg)
+![badge](https://zgq-inc.github.io/badge/ico/min-oss.svg)
+![badge](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+![badge](https://zgq-inc.github.io/badge/ico/mysql.svg)
+![badge](https://zgq-inc.github.io/badge/ico/nodejs.svg)
+![badge](https://zgq-inc.github.io/badge/ico/npm.svg)
+![badge](https://zgq-inc.github.io/badge/ico/qq.svg)
+![badge](https://zgq-inc.github.io/badge/ico/qqweibo.svg)
+![badge](https://zgq-inc.github.io/badge/ico/qzone.svg)
+![badge](https://zgq-inc.github.io/badge/ico/reddit.svg)
+![badge](https://zgq-inc.github.io/badge/ico/redhat.svg)
+![badge](https://zgq-inc.github.io/badge/ico/redis.svg)
+![badge](https://zgq-inc.github.io/badge/ico/sass.svg)
+![badge](https://zgq-inc.github.io/badge/ico/segmentfault.svg)
+![badge](https://zgq-inc.github.io/badge/ico/stackoverflow.svg)
+![badge](https://zgq-inc.github.io/badge/ico/stylus.svg)
+![badge](https://zgq-inc.github.io/badge/ico/tudou.svg)
+![badge](https://zgq-inc.github.io/badge/ico/twitter-follow.svg)
+![badge](https://zgq-inc.github.io/badge/ico/twitter-tweet.svg)
+![badge](https://zgq-inc.github.io/badge/ico/twitter.svg)
+![badge](https://zgq-inc.github.io/badge/ico/ubuntu.svg)
+![badge](https://zgq-inc.github.io/badge/ico/wechat.svg)
+![badge](https://zgq-inc.github.io/badge/ico/weibo.svg)
+![badge](https://zgq-inc.github.io/badge/ico/xitu.svg)
+![badge](https://zgq-inc.github.io/badge/ico/xunlei.svg)
+![badge](https://zgq-inc.github.io/badge/ico/youku.svg)
+![badge](https://zgq-inc.github.io/badge/ico/zhihu.svg)
+  
+  <h2 class="title">lang</h2>
+  
+![badge](https://zgq-inc.github.io/badge/lang/chinese.svg)
+![badge](https://zgq-inc.github.io/badge/lang/english.svg)
+  
+  <h2 class="title">license</h2>
+  
+![badge](https://zgq-inc.github.io/badge/license/apache.svg)
+![badge](https://zgq-inc.github.io/badge/license/bsd.svg)
+![badge](https://zgq-inc.github.io/badge/license/gpl.svg)
+![badge](https://zgq-inc.github.io/badge/license/lgpl.svg)
+![badge](https://zgq-inc.github.io/badge/license/mit.svg)
+![badge](https://zgq-inc.github.io/badge/license/mozilla.svg)
+  
+  <h2 class="title">open</h2>
+  
+![badge](https://zgq-inc.github.io/badge/open/open-in-gitpod.svg)
+![badge](https://zgq-inc.github.io/badge/open/open-in-vscode.svg)
+  
+  <h2 class="title">plugin</h2>
+  
+![badge](https://zgq-inc.github.io/badge/plugin/angularjs.svg)
+![badge](https://zgq-inc.github.io/badge/plugin/jquery.svg)
+![badge](https://zgq-inc.github.io/badge/plugin/jslite.svg)
+![badge](https://zgq-inc.github.io/badge/plugin/vue.svg)
+![badge](https://zgq-inc.github.io/badge/plugin/zepto.svg)
+  
+  <h2 class="title">progressed</h2>
+  
+![badge](https://zgq-inc.github.io/badge/progressed/0.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/1.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/10.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/100.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/11.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/12.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/13.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/14.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/15.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/16.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/17.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/18.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/19.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/2.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/20.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/21.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/22.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/23.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/24.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/25.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/26.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/27.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/28.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/29.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/3.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/30.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/31.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/32.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/33.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/34.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/35.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/36.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/37.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/38.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/39.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/4.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/40.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/41.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/42.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/43.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/44.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/45.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/46.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/47.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/48.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/49.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/5.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/50.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/51.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/52.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/53.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/54.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/55.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/56.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/57.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/58.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/59.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/6.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/60.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/61.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/62.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/63.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/64.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/65.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/66.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/67.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/68.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/69.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/7.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/70.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/71.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/72.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/73.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/74.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/75.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/76.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/77.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/78.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/79.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/8.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/80.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/81.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/82.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/83.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/84.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/85.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/86.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/87.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/88.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/89.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/9.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/90.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/91.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/92.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/93.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/94.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/95.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/96.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/97.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/98.svg)
+![badge](https://zgq-inc.github.io/badge/progressed/99.svg)
+  
+  <h2 class="title">star</h2>
+  
+![badge](https://zgq-inc.github.io/badge/star/black.svg)
+![badge](https://zgq-inc.github.io/badge/star/gray.svg)
+![badge](https://zgq-inc.github.io/badge/star/red.svg)
+![badge](https://zgq-inc.github.io/badge/star/red0.svg)
+![badge](https://zgq-inc.github.io/badge/star/red1.svg)
+![badge](https://zgq-inc.github.io/badge/star/red2.svg)
+![badge](https://zgq-inc.github.io/badge/star/red3.svg)
+![badge](https://zgq-inc.github.io/badge/star/red4.svg)
+![badge](https://zgq-inc.github.io/badge/star/red5.svg)
+  
+  <h2 class="title">status</h2>
+  
+![badge](https://zgq-inc.github.io/badge/status/no-dependencies.svg)
+![badge](https://zgq-inc.github.io/badge/status/pod-invalid.svg)
+![badge](https://zgq-inc.github.io/badge/status/stable.svg)
+![badge](https://zgq-inc.github.io/badge/status/wheel-no.svg)
