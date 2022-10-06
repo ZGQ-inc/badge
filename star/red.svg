@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="12px" height="11px" viewBox="0 0 12 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <title>red</title>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="star" sketch:type="MSLayerGroup" transform="translate(0.000000, -110.000000)" fill="#C90000">
-            <polygon id="red" sketch:type="MSShapeGroup" points="5.7063391 119 2.17962758 120.854102 2.85316955 116.927051 5.68434189e-14 114.145898 3.94298334 113.572949 5.7063391 110 7.46969485 113.572949 11.4126782 114.145898 8.55950865 116.927051 9.23305061 120.854102 "></polygon>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="11" version="1.1" viewBox="0 0 12 11"><title>red</title><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="star" fill="#C90000" transform="translate(0.000000, -110.000000)"><polygon id="red" points="5.706 119 2.18 120.854 2.853 116.927 0 114.146 3.943 113.573 5.706 110 7.47 113.573 11.413 114.146 8.56 116.927 9.233 120.854"/></g></g></svg>
